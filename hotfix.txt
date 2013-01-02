@@ -1,2 +1,3 @@
-Szybki fix //komentarz
+Szybki fix //komentarz  zmiana1
+Nowy koment
 
