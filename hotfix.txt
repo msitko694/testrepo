@@ -1,1 +1,2 @@
-Szybki fix
+Szybki fix ----- breaking change
+
