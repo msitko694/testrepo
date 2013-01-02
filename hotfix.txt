@@ -1,2 +1,2 @@
-Szybki fix ----- breaking change
+Szybki fix //komentarz
 
